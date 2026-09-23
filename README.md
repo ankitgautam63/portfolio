@@ -1,2 +1,2 @@
 # portfolio
-personal website
+A small personal website prototype designed for fun
